@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f68e724dbe85406d8e5440b76c03a690, type: 3}
+  m_Name: Tulpin
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 8723bd1a2e9c26441b9fd9e0ee14447d, type: 3}
+  _desc: "\u0426\u0432\u0435\u0442\u043E\u043A-\u0447\u0430\u0448\u0435\u0447\u043A\u0430
+    \u043D\u0430 \u0442\u043E\u043D\u043A\u043E\u0439 \u043D\u043E\u0436\u043A\u0435."
+  _price: 1
+  ItemActions:
+  - actionType: 1
+  item:
+    itemName: "\u0422\u044E\u043B\u044C\u043F\u0430\u043D"
+    assetName: Tulpin
